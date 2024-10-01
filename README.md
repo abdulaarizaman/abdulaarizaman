@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm currently working on: Developing a feature-rich note-taking app aimed at enhancing productivity.<br> I'm looking to collaborate on: Excited to collaborate on software development projects for educational institutions, focusing on innovative and impactful solutions.<br> I'm currently learning: Expanding my skills in JavaScript, Python, Node.js, React.js, and Express.js to build full-stack applications.<br> Ask Me About: Front-end and back-end development, and how to create seamless, user-friendly digital experiences.<br> Fun fact: I built my first game, TIC-TAC-TOE, using HTML, CSS, and JavaScript — it was a fun project that kickstarted my coding journey!
+Hello! I'm Abdul Aariz Aman, a passionate aspiring Full Stack Developer and currently a Class 7 student.<br> I'm currently working on: Developing a feature-rich note-taking app aimed at enhancing productivity.<br> I'm looking to collaborate on: Excited to collaborate on software development projects for educational institutions, focusing on innovative and impactful solutions.<br> I'm currently learning: Expanding my skills in JavaScript, Python, Node.js, React.js, and Express.js to build full-stack applications.<br> Ask Me About: Front-end and back-end development, and how to create seamless, user-friendly digital experiences.<br> Fun fact: I built my first game, TIC-TAC-TOE, using HTML, CSS, and JavaScript — a fun project that kickstarted my coding journey!
 
 ## 🌐 Socials:
 
